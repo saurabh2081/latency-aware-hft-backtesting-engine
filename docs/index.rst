@@ -5,7 +5,7 @@
 HftBacktest
 ===========
 
-|codeql| |python| |pypi| |downloads| |rustc| |crates| |license| |docs| |roadmap| |github|
+|codeql| |python| |pypi| |downloads| |rustc| |crates| |docs| |roadmap| |github|
 
 High-Frequency Trading Backtesting Tool
 =======================================
@@ -252,10 +252,6 @@ Please see the `roadmap <https://github.com/nkaz001/hftbacktest/blob/master/ROAD
 .. |crates| image:: https://img.shields.io/crates/v/hftbacktest.svg
     :alt: Rust crates.io version
     :target: https://crates.io/crates/hftbacktest
-
-.. |license| image:: https://img.shields.io/badge/License-MIT-green.svg
-    :alt: License
-    :target: https://github.com/nkaz001/hftbacktest/blob/master/LICENSE
 
 .. |docs| image:: https://readthedocs.org/projects/hftbacktest/badge/?version=latest
     :target: https://hftbacktest.readthedocs.io/en/latest/?badge=latest
